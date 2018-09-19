@@ -3,3 +3,5 @@ with deadlines and penalties for a single processor problem:
 
 1. Naive implementation
 2. Disjoint set union implementation
+
+Faster: Disjoint
