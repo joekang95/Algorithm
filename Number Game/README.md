@@ -1,4 +1,6 @@
+Given a sequence of 2N-1 positve integers, select N numbers from the sequence such that the sum of those N numbers can be divided by N.
 
+For v2
 	1. Reads input.txt (input.txt must be in the same folder as .exe or c.pp)   <Default>
 
 	2. If want to read input.txt, remove comment on row 29~30 and comment out row 36~58   <Default>
