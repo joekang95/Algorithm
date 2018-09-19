@@ -1,0 +1,5 @@
+strassen: c = 0	27.379s
+strassen: c = 1	16.646s
+strassen: c = 2	16.185s
+strassen: c = 3	16.4s
+strassen: c = 4	15.972s

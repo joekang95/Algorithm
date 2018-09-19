@@ -1,0 +1,13 @@
+normal: 25.039s
+full strassen: 4795.63s
+part strassen: thr = 2		1032.71s
+part strassen: thr = 4		267.746s
+part strassen: thr = 8		82.118s
+part strassen: thr = 16		31.449s
+part strassen: thr = 32		17.826s
+part strassen: thr = 64		14.057s
+part strassen: thr = 128	13.733s
+part strassen: thr = 256	14.876s
+part strassen: thr = 512	17.738s
+part strassen: thr = 1024	28.454s
+minimum threshold: 128

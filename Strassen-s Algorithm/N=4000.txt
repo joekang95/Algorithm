@@ -1,0 +1,3 @@
+part strassen: thr = 64		617.17s
+part strassen: thr = 128	677.453s
+minimum threshold: 64
